@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,EZtune,en,Genetic algorithm,fast = 0.75,auc,0.758597883597884,0.824313341591781,213.654433250427

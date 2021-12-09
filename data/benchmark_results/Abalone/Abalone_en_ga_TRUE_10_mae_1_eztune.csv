@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,EZtune,en,Genetic algorithm,fast = TRUE,mae,2.42744882622691,1.65863024541365,2.38669371604919

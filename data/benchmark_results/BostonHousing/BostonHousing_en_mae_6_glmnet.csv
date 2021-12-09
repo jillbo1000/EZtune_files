@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,glmnet,en,1se,cross-validation,mae,6.20006028202395,3.80746052440215,1.08128213882446
+BostonHousing,glmnet,en,min,cross-validation,mae,5.86651998429287,3.66083819606049,1.08128213882446

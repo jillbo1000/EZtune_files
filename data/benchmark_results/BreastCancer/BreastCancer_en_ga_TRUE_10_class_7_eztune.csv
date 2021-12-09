@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,EZtune,en,Genetic algorithm,fast = TRUE,accuracy,0.95906432748538,0.992192192192192,2.57713580131531

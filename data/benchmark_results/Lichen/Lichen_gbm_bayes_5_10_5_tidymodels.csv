@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,tidymodels,gbm,Iterative Bayes,cross-validation,auc,0.875598086124402,0.926513736996532,318.996263027191
+Lichen,tidymodels,gbm,Iterative Bayes,cross-validation,accuracy,0.894736842105263,0.94065084022406,318.996263027191

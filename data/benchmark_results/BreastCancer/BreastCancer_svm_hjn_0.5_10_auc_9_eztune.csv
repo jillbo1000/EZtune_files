@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,EZtune,svm,Hooke-Jeeves,fast = 0.5,auc,0.990380210719194,0.976470588235294,1.09652519226074

@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+CO2,glmnet,en,1se,cross-validation,rmse,5.91443896087517,4.96371391231463,0.727182865142822
+CO2,glmnet,en,min,cross-validation,rmse,5.46672695691915,4.60391074489183,0.727182865142822

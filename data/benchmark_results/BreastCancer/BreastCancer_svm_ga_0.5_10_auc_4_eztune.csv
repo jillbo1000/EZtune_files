@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,EZtune,svm,Genetic algorithm,fast = 0.5,auc,0.996335318369217,0.952941176470588,3.2772171497345

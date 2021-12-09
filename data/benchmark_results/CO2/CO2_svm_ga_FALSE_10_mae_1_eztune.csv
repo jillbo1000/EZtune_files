@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+CO2,EZtune,svm,Genetic algorithm,10-fold cross-validation,mae,3.11505016686857,2.34036189273053,21.6995437145233

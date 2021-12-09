@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,EZtune,en,Genetic algorithm,fast = TRUE,rmse,4.68069888639867,3.135859476208,2.70629739761353

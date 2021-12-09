@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,EZtune,svm,Genetic algorithm,fast = TRUE,auc,0.877433982395305,0.827751196172249,7.47296166419983

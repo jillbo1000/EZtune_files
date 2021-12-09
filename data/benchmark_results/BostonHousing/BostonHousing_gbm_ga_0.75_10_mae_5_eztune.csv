@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,EZtune,gbm,Genetic algorithm,fast = 0.75,mae,2.5564446344047,1.86877770752356,239.696461200714

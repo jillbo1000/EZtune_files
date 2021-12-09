@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,EZtune,en,Genetic algorithm,10-fold cross-validation,auc,0.777777777777778,0.839865292824949,3370.44050097466

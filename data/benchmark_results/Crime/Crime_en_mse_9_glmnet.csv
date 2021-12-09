@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,glmnet,en,1se,cross-validation,rmse,35.500967029434,30.4197072576225,0.767855405807495
+Crime,glmnet,en,min,cross-validation,rmse,29.9637325727293,26.9091015947338,0.767855405807495

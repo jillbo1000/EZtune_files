@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Pima,EZtune,svm,Hooke-Jeeves,fast = 0.5,auc,0.770626865671642,0.697916666666667,1.41154456138611

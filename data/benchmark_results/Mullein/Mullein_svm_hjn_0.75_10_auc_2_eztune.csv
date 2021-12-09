@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,EZtune,svm,Hooke-Jeeves,fast = 0.75,auc,0.941960588159804,0.894109861019193,1714.01021456718

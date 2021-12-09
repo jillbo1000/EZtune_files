@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,EZtune,en,Genetic algorithm,fast = 0.75,rmse,26.1409529967594,23.5780145578026,2.63840889930725

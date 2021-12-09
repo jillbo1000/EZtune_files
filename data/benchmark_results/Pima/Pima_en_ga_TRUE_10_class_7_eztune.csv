@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Pima,EZtune,en,Genetic algorithm,fast = TRUE,accuracy,0.776041666666667,0.834268656716418,3.29132413864136

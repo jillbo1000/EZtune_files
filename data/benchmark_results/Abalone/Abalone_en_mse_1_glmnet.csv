@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,glmnet,en,1se,cross-validation,rmse,2.32814972801874,1.65069951830922,1.71931982040405
+Abalone,glmnet,en,min,cross-validation,rmse,2.23015794444547,1.59385054822083,1.71931982040405

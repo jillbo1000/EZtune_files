@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+CO2,EZtune,gbm,Genetic algorithm,fast = TRUE,mae,1.9603834091936,1.41973959145083,5.17507886886597

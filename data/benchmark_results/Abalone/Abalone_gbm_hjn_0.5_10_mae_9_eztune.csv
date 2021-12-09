@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,EZtune,gbm,Hooke-Jeeves,fast = 0.5,mae,2.03637060563462,1.44440312195271,379.200469255447

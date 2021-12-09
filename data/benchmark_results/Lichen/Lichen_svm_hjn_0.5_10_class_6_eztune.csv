@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,EZtune,svm,Hooke-Jeeves,fast = 0.5,accuracy,0.889703921045612,0.842105263157895,4.19702219963074

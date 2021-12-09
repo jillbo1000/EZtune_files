@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,EZtune,svm,Genetic algorithm,10-fold cross-validation,auc,0.999083829592304,0.976470588235294,31.5600938796997

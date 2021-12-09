@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,EZtune,svm,Genetic algorithm,10-fold cross-validation,rmse,2.56734235463343,1.95957965308475,247.088982582092

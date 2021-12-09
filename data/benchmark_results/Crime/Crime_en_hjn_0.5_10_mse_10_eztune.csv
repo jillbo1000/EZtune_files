@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,EZtune,en,Hooke-Jeeves,fast = 0.5,rmse,40.8810966232731,31.6555063152664,1.30628943443298

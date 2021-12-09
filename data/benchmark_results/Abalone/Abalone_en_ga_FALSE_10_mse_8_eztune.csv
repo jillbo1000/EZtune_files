@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,EZtune,en,Genetic algorithm,10-fold cross-validation,rmse,2.25657511740637,1.62153369257612,5.57767152786255

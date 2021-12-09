@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Sonar,EZtune,svm,Hooke-Jeeves,fast = 0.5,auc,0.992283950617284,0.92156862745098,1.30912351608276

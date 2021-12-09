@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Pima,tidymodels,gbm,Iterative Bayes,cross-validation,auc,0.729166666666667,0.809194029850746,243.457023620605
+Pima,tidymodels,gbm,Iterative Bayes,cross-validation,accuracy,0.729166666666667,0.809194029850746,243.457023620605

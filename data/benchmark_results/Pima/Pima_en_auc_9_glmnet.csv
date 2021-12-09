@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Pima,glmnet,en,1se,cross-validation,auc,0.6875,0.810746268656716,19.9521906375885
+Pima,glmnet,en,min,cross-validation,auc,0.744791666666667,0.807283582089552,19.9521906375885

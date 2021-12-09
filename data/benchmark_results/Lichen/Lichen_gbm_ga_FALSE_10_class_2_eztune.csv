@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,EZtune,gbm,Genetic algorithm,10-fold cross-validation,accuracy,0.891037610029341,0.832535885167464,2825.55666208267

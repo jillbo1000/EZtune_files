@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,EZtune,svm,Hooke-Jeeves,10-fold cross-validation,rmse,2.0426680447084,1.40747659398221,512.659831523895

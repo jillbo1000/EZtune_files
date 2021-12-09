@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Pima,tidymodels,svm,Grid,cross-validation,auc,0.755208333333333,0.830328358208955,1564.03372383118
+Pima,tidymodels,svm,Grid,cross-validation,accuracy,0.744791666666667,0.828417910447761,1564.03372383118

@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,tidymodels,svm,Iterative Bayes,cross-validation,auc,0.652941176470588,0.990532905787143,86.6201281547546
+BreastCancer,tidymodels,svm,Iterative Bayes,cross-validation,accuracy,0.952941176470588,0.987173614292258,86.6201281547546

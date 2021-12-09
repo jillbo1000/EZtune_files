@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,glmnet,en,1se,cross-validation,accuracy,0.947368421052632,0.993393393393393,2.11371660232544
+BreastCancer,glmnet,en,min,cross-validation,accuracy,0.964912280701754,0.993843843843844,2.11371660232544

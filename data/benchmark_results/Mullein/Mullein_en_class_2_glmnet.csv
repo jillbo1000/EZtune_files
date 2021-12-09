@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,glmnet,en,1se,cross-validation,accuracy,0.764219576719577,0.825357457797934,647.1524477005
+Mullein,glmnet,en,min,cross-validation,accuracy,0.767526455026455,0.832024141961311,647.1524477005

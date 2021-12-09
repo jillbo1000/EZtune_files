@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,tidymodels,svm,Grid,cross-validation,mae,31.4643122087379,21.8497759193436,2593.88184690475
+Crime,tidymodels,svm,Grid,cross-validation,rmse,31.4643122087379,21.8497759193436,2593.88184690475

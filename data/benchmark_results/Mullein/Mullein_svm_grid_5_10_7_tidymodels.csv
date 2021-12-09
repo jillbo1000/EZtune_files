@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,tidymodels,svm,Grid,cross-validation,auc,0.895764394440768,0.955318618680306,5655.10843610764
+Mullein,tidymodels,svm,Grid,cross-validation,accuracy,0.895764394440768,0.955318618680306,5655.10843610764

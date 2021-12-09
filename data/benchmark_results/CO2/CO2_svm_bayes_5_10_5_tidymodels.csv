@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+CO2,tidymodels,svm,Iterative Bayes,cross-validation,mae,6.08035775860019,3.83678182316846,127.943278551102
+CO2,tidymodels,svm,Iterative Bayes,cross-validation,rmse,6.08035775860019,3.83678182316846,127.943278551102

@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,EZtune,svm,Hooke-Jeeves,10-fold cross-validation,rmse,31.1536862392368,25.6170531216259,0.725260734558105

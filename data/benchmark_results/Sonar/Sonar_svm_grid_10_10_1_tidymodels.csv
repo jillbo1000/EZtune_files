@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Sonar,tidymodels,svm,Grid,cross-validation,auc,0.862745098039216,0.95679012345679,839.558223724365
+Sonar,tidymodels,svm,Grid,cross-validation,accuracy,0.882352941176471,0.950617283950617,839.558223724365

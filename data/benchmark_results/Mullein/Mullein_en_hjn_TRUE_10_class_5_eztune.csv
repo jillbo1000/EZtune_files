@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,EZtune,en,Hooke-Jeeves,fast = TRUE,accuracy,0.76521164021164,0.832609844349262,57.1231489181519

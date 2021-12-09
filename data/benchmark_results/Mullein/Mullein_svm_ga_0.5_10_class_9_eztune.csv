@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,EZtune,svm,Genetic algorithm,fast = 0.5,accuracy,0.94464594736766,0.925215089344805,1955.80808973312

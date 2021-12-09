@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,tidymodels,svm,Grid,cross-validation,mae,4.02233148590086,2.2983663088813,425.363072395325
+BostonHousing,tidymodels,svm,Grid,cross-validation,rmse,3.04187083203171,2.17602796463493,425.363072395325

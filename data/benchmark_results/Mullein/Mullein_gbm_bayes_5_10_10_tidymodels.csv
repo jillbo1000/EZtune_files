@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Mullein,tidymodels,gbm,Iterative Bayes,cross-validation,auc,0.919920582395764,0.967191182596104,5898.84318733215
+Mullein,tidymodels,gbm,Iterative Bayes,cross-validation,accuracy,0.919920582395764,0.967191182596104,5898.84318733215

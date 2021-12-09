@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,EZtune,en,Hooke-Jeeves,fast = 0.75,mae,6.31652138348172,3.68376411725057,1.36565923690796

@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,tidymodels,svm,Iterative Bayes,cross-validation,mae,2.62760379233264,1.9443029900945,91.9340884685516
+BostonHousing,tidymodels,svm,Iterative Bayes,cross-validation,rmse,2.48579411220926,1.81525254557265,91.9340884685516

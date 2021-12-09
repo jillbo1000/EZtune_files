@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,tidymodels,svm,Grid,cross-validation,auc,0.982352941176471,0.995113757825622,415.154358863831
+BreastCancer,tidymodels,svm,Grid,cross-validation,accuracy,0.982352941176471,0.995724538097419,415.154358863831

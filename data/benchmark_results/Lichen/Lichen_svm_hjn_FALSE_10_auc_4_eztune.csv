@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,EZtune,svm,Hooke-Jeeves,10-fold cross-validation,auc,0.943985062683382,0.880382775119617,62.5978350639343

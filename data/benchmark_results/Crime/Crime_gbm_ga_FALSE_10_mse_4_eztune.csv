@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,EZtune,gbm,Genetic algorithm,10-fold cross-validation,rmse,20.102049792463,14.7407027461864,87.7046358585358

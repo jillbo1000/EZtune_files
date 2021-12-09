@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Crime,tidymodels,svm,Iterative Bayes,cross-validation,mae,36.9402283461638,25.4684836242161,106.332158327103
+Crime,tidymodels,svm,Iterative Bayes,cross-validation,rmse,36.9402283461638,25.4684836242161,106.332158327103

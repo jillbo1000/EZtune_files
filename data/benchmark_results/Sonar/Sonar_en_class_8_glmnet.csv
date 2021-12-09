@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Sonar,glmnet,en,1se,cross-validation,accuracy,0.679245283018868,0.76,10.2734093666077
+Sonar,glmnet,en,min,cross-validation,accuracy,0.660377358490566,0.808571428571429,10.2734093666077

@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,tidymodels,svm,Iterative Bayes,cross-validation,mae,2.10027137252243,1.42350912445067,375.573178291321
+Abalone,tidymodels,svm,Iterative Bayes,cross-validation,rmse,2.10027137252243,1.42350912445067,375.573178291321

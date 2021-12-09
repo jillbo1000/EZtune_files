@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BreastCancer,EZtune,svm,Hooke-Jeeves,10-fold cross-validation,auc,0.991754466330737,0.988235294117647,6.05602097511292

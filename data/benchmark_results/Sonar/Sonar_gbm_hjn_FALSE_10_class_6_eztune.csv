@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Sonar,EZtune,gbm,Hooke-Jeeves,10-fold cross-validation,accuracy,0.905864197530864,0.823529411764706,400.26654458046

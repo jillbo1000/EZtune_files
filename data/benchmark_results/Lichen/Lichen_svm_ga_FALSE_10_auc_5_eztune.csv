@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,EZtune,svm,Genetic algorithm,10-fold cross-validation,auc,0.89143771672446,0.842105263157895,473.01535820961

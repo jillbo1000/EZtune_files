@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Sonar,tidymodels,gbm,Iterative Bayes,cross-validation,auc,0.784313725490196,0.898148148148148,177.544524908066
+Sonar,tidymodels,gbm,Iterative Bayes,cross-validation,accuracy,0.745098039215686,0.891975308641975,177.544524908066

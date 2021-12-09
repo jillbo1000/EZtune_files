@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,glmnet,en,1se,cross-validation,auc,0.819905213270142,0.853009859885833,74.9143500328064
+Lichen,glmnet,en,min,cross-validation,auc,0.838862559241706,0.873508043591074,74.9143500328064

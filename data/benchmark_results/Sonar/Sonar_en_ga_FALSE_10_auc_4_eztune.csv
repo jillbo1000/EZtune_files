@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Sonar,EZtune,en,Genetic algorithm,10-fold cross-validation,auc,0.773584905660377,0.81,22.0233464241028

@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Abalone,tidymodels,svm,Grid,cross-validation,mae,2.30761075047809,1.53726395044604,2136.51631641388
+Abalone,tidymodels,svm,Grid,cross-validation,rmse,2.30761075047809,1.53726395044604,2136.51631641388

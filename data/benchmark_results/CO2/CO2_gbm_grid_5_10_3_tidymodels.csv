@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+CO2,tidymodels,gbm,Grid,cross-validation,mae,2.57698813081143,1.99294630686442,2814.13666296005
+CO2,tidymodels,gbm,Grid,cross-validation,rmse,2.57698813081143,1.99294630686442,2814.13666296005

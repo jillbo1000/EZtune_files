@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Pima,EZtune,en,Genetic algorithm,10-fold cross-validation,auc,0.770833333333333,0.814686567164179,4.61178636550903

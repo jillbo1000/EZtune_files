@@ -1,0 +1,3 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+Lichen,tidymodels,svm,Grid,cross-validation,auc,0.789473684210526,0.878500933582289,152.837029457092
+Lichen,tidymodels,svm,Grid,cross-validation,accuracy,0.851674641148325,0.880901573753001,152.837029457092

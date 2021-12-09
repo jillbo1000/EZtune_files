@@ -1,0 +1,2 @@
+data,package,method,optimizer,assess,tuned_on,acc_rmse,auc_mae,time
+BostonHousing,EZtune,svm,Hooke-Jeeves,10-fold cross-validation,mae,3.87179554853841,2.17554983045979,41.2705202102661
