@@ -1,6 +1,6 @@
-========================================================================
+======================
 benchmark_results
-========================================================================
+======================
 
 This folder contains all of the benchmarking results for the 
 EZtune and tidymodels performance comparison. These are the files
@@ -18,9 +18,9 @@ hyperparameter tuning. They are included in the repository for
 completeness. 
 
 
-========================================================================
+======================
 data_files
-========================================================================
+======================
 
 The files in the directory contain any external data and the
 R scripts used to prepare all of the data for benchmark testing. 
@@ -31,9 +31,9 @@ file that is not part of an existing R package is 'Crime_Story.txt'
 and it is included in this directory. 
 
 
-========================================================================
+======================
 tables
-========================================================================
+======================
 
 This folder contains the tables compiled from the benchmarking files. 
 The scripts for making those tables is in the Rscripts folder. 
